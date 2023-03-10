@@ -1,3 +1,3 @@
 mkdir abc
 cd abc
-printf "welcome"
+printf "welcome to today trainings "
